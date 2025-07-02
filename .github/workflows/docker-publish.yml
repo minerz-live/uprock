@@ -36,5 +36,5 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/adfly8470/uprock/uprock:latest
+          tags: ghcr.io/minerz-live/uprock/uprock:latest
           no-cache: true
